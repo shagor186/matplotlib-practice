@@ -1,0 +1,5 @@
+# Matplotlib - Data Visualization
+
+numpy
+pandas
+matplotlib
